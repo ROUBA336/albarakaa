@@ -1,0 +1,99 @@
+
+
+.ui-w-80 {
+    width : 80px !important;
+    height: auto;
+}
+
+
+label.btn {
+    margin-bottom: 0;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.text-light {
+    color: #babbbc !important;
+}
+
+
+
+
+
+.row-bordered {
+    
+    overflow: hidden;
+}
+
+.account-settings-fileinput {
+    position  : absolute;
+    visibility: hidden;
+    width     : 1px;
+    height    : 1px;
+    opacity   : 0;
+  
+ 
+}
+
+.account-settings-links .list-group-item.active {
+    font-weight: bold !important;
+   
+
+}
+
+html:not(.dark-style) .account-settings-links .list-group-item.active {
+    background: transparent !important;
+ 
+
+}
+
+.account-settings-multiselect~.select2-container {
+    width: 90% !important;
+    
+   
+
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.3rem;
+    border-color: rgba(24, 28, 33, 0.03) !important;
+    margin-left: 50px;
+    width: 210px;
+}
+
+.light-style .account-settings-links .list-group-item.active {
+    color: #4e5155 !important;
+    margin-left: 90px;
+}
+
+.material-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: rgba(24, 28, 33, 0.03) !important;
+   
+}
+
+.material-style .account-settings-links .list-group-item.active {
+    color: #4e5155 !important;
+}
+
+.dark-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: rgba(18, 15, 102, 0.03) !important;
+    
+}
+
+.dark-style .account-settings-links .list-group-item.active {
+    color: #fff !important;
+}
+
+.light-style .account-settings-links .list-group-item.active {
+    color: orangered!important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: rgba(24, 28, 33, 0.03) !important;
+}
+
